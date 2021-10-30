@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DSA with C++
 - 💞️ I’m looking to collaborate on Competitive Programming
 - 📫 How to reach me thoratprathamesh08@gmail.com
+- 📷 My YouTube Channel https://www.youtube.com/channel/UCWurZVa5Gt1ME_kYXEqkrcw
 
 <!---
 PrathameshThorat008/PrathameshThorat008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
