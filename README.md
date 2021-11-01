@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathameshThorat008
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning DSA with C++
+- 🌱 I’m currently learning DSA with Web Devlopment
 - 💞️ I’m looking to collaborate on Competitive Programming
 - 📫 How to reach me thoratprathamesh08@gmail.com
 - 📷 My YouTube Channel https://www.youtube.com/channel/UCWurZVa5Gt1ME_kYXEqkrcw
