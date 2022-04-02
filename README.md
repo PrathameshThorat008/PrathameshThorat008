@@ -5,7 +5,6 @@
 - 📫 How to reach me thoratprathamesh08@gmail.com
 - 📷 My YouTube Channel [Pratham Codes](https://www.youtube.com/channel/UCWurZVa5Gt1ME_kYXEqkrcw)
 - 📷 My 2nd YouTube Channel [Do Epics](https://www.youtube.com/channel/UCdBMPK26BuZ_GybQIRe1FBQ)
-- 💻 My LinkedIn Profile [Prathamesh Thorat](https://www.linkedin.com/in/prathamesh-thorat-831b98224/)
 - 😎 My Sololearn Profile [Prathamesh Thorat](https://www.sololearn.com/profile/23789199)
 - ✔ My CodeChef Profile [prathamesh_8](https://www.codechef.com/users/prathamesh_8) <br />
 
